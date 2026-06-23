@@ -6,6 +6,10 @@ The project combines financial theory, numerical methods, machine-learning regre
 
 ---
 
+<img width="823" height="739" alt="image" src="https://github.com/user-attachments/assets/4ad1087d-780d-413b-bb9b-cf5643d9ee6d" />
+
+---
+
 ## Research Questions
 
 - How closely does each model estimate observed market option prices?
